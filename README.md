@@ -3,8 +3,14 @@
 
 
 Структура репозитория репозитория:
+
+SecretPart_dummy_rabotyagi.csv - итоговый предикт
+read.me - файл с документацией
+dataset_parquet.parquet - итоговый датасет.
 data_prep.ipynb - файл подготовки данных.
+nonlinear_models.ipynb - файл с описанием итоговой модели.
 score_viz.ipynb - файл с визуализацией решения.
+requirements.txt - файл с версиями библиотек.
 
 
 
